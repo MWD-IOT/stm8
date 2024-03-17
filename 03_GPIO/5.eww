@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\STM8S207R8.ewp</path>
+  </project>
+  <project>
+    <path>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0\stm8\examples\ST-LINK\STM8S208MB-Board\STM8S208MB-Board.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
